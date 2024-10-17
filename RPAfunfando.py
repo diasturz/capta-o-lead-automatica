@@ -5,7 +5,7 @@ import openpyxl
 from openpyxl.styles import Alignment, numbers
 
 # Defina sua chave da API ZenRows
-api_key = "9ef1e31b4f3820c1370753f4bd319cafb0ce335b"
+api_key = "SUA CHAVE API"
 client = ZenRowsClient(api_key)
 
 # Define a URL da API da Casa dos Dados
